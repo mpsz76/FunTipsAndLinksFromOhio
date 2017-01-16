@@ -1,0 +1,25 @@
+My BPM Work Tools
+
+BPM  (Download From Your Process Center)
+  Process Designer
+  Integration Designer (if necessary)
+  Integration Designer UTC 
+ 
+Utilities
+  Moba XTerm (more windows than putty, able to grep on your windows workstation)
+    http://mobaxterm.mobatek.net/download.html
+  Baretail (able to tail windows logs like Linux/AIX)
+    http://www.baremetalsoft.com/baretail/
+  Soap UI
+    https://www.soapui.org/downloads/soapui.html
+  Notepad ++
+    https://notepad-plus-plus.org
+   
+Database Client
+  Oracle SQL Developer 
+    http://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html
+  or IBM DataStudio
+    http://www-01.ibm.com/support/docview.wss?uid=swg24037681
+
+
+
